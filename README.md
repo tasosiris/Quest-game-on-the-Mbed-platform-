@@ -1,5 +1,3 @@
-# ECE 2035 Project 2-2: Top-Down RPG Game
-
 ## Project Overview
 
 This repository contains the code for a top-down RPG game built on the Mbed platform. The game allows the player to navigate a map, interact with NPCs, fight enemies, and complete a quest using a Nav Switch and action buttons.
