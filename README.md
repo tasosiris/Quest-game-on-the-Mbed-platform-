@@ -20,8 +20,7 @@ This repository contains the code for a top-down RPG game built on the Mbed plat
 ## Installation
 
 1. Import the project into the Mbed environment.
-2. Copy and paste your hash table implementation from Project 2-1 into `hash_table.cpp` and `hash_table.h`.
-3. Compile and flash the code to your Mbed device.
+2. Compile and flash the code to your Mbed device.
 
 ## Game Flow
 
